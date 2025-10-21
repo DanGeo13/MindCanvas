@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">com.example.mindcanvas</string>
+    <string name="title_activity_main">com.example.mindcanvas</string>
+    <string name="package_name">io.github.dangeo13.mindcanvas</string>
+    <string name="custom_url_scheme">io.github.dangeo13.mindcanvas</string>
+    
+    <!-- App Shortcuts -->
+    <string name="shortcut_new_note_short">New Note</string>
+    <string name="shortcut_new_note_long">New Note</string>
+    <string name="shortcut_record_audio_short">Record Audio</string>
+    <string name="shortcut_record_audio_long">Record Audio</string>
+    <string name="shortcut_take_photo_short">Take Photo</string>
+    <string name="shortcut_take_photo_long">Take Photo</string>
+    <string name="shortcut_take_video_short">Record Video</string>
+    <string name="shortcut_take_video_long">Record Video</string>
+</resources>
